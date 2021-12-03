@@ -62,10 +62,5 @@ namespace _CM_Lab5
                 chart.Series[$"Точность {i}"].Points.AddY(k);
             }
         }
-
-        private void buttonScalar_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
